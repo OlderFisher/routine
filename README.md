@@ -1,6 +1,10 @@
 <div align="center">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="100px" alt="CorpSoft Logo">
-    <h1 align="center">Routine Standard</h1>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" height="100px" alt="OlderFisher Logo">
+    <h1>Routine Standard</h1>
+<hr/>
+    <h3>Routine Standard</h3>
+    <p>Routine Standard is a web application that allows you to create and manage your daily new Laravel projects routines.</p>
+    <p>It is built using Laravel, Bootstrap CSS and jQuery.</p>
 </div>
 
 ### Installing using Docker
