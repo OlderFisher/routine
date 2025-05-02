@@ -44,7 +44,7 @@ _Once the shell alias has been configured, you may execute Sail commands._
 <br>
 _You can add alias global to phpstorm terminal or other terminal_
 
-### To start all of the Docker containers in the background, you may start Sail in "detached" mode:
+### To start  Docker containers in the background, you may start Sail in "detached" mode:
 
 ```sh
 sail up -d
@@ -52,7 +52,7 @@ sail up -d
 
 _It may take some time to download the required images._
 
-_To stop all of the containers run:_ `sail stop`
+_To stop  containers run:_ `sail stop`
 
 ### When done, you need to execute the following commands:
 
